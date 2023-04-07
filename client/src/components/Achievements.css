@@ -1,0 +1,16 @@
+#achievements{
+    width:100%;
+    height:100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.title{
+    padding-left:20px;
+    margin-top:140px;
+    text-align:center;
+}
+
+.btn{
+    width:max-content;
+}
